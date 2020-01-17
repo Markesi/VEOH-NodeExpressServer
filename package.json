@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Markesi/VEOH-NodeExpressServer/issues"
   },
-  "homepage": "https://github.com/Markesi/VEOH-NodeExpressServer#readme"
+  "homepage": "https://github.com/Markesi/VEOH-NodeExpressServer#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
